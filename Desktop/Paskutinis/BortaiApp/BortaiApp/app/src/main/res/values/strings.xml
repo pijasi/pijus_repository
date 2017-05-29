@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Salelės</string>
+    <string name="button_send">Apdoroti</string>
+    <string name="edit_message1">Įveskite salelės plotį</string>
+    <string name="edit_message2">Įveskite apvalinimo aukštį</string>
+    <string name="action_settings1">Pagalba</string>
+    <string name="action_settings2">Apie</string>
+    <string name="textView"></string>
+    <string name="apie_string">\t<b>Salelės</b> - sistema palengvinanti kelių darbuose tiksliau statyti kelio bortus saugumo salelėms.\n\tSukant ovalius salelių galus, norint išsukti tinkamą kampą, reikia įpjauti bortų galus, kas dažnai būna nesėkminga, eikvoja daug laiko ir lėšų.\n\tŠi sistema pagal salelės parametrus apskaičiuoja bortų pjovimo kampus. </string>
+    <string name="pagalba_string">\tPirmame programos langelyje įveskite savo saugumo salelės plotį <b>centimetrais</b>.\n\tAntrame - pageidaujamą apvalinimo aukštį.\n\t<i><u>Apvalinimo aukštis negali būti ilgesnis nei salelės plotis.</u></i></string>
+    <string name="dialog_text">Pranešimas</string>
+    <string name="dialog_button">Supratau</string>
+    <string name="bortu_kiekis">Pasirinkite bortų kiekį</string>
+    <string name="error_message">Pagal jūsų nurodytus matmenis negalima sudaryti saugumo salelės.</string>
+</resources>
